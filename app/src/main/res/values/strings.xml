@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">點餐系統</string>
+    <string name="txtTable">桌次:</string>
+    <string name="txtMain">主餐:</string>
+    <string name="grilledFishSteak">鮮烤魚排 (200元)</string>
+    <string name="bakedPrawns">焗烤明蝦 (250元)</string>
+    <string name="frenchRoastChicken">法式烤雞 (300元)</string>
+    <string name="SauteedSteak">嫩肩牛排 (350元)</string>
+    <string name="txtSecond">副餐:</string>
+    <string name="chkShrimp">鮮蝦蘆筍 (80元)</string>
+    <string name="chkTofu">香炸豆腐 (50元)</string>
+    <string name="txtDessert">甜點:</string>
+    <string name="rdbIceCream">冰淇淋</string>
+    <string name="rdbJelly">果凍</string>
+    <string name="btnOK">點餐</string>
+    <string name="nothing">無</string>
+    <string name="total">合計:</string>
+    <string name="dollar">元</string>
+    <string name="mainChange">選單</string>
+
+
+    <string name="dlgTitle">點餐系統</string>
+    <string name="dlgbtnOK">確認</string>
+    <string name="dlgbtnCancel">取消</string>
+
+    <string name="dlgTitle2">主選單</string>
+    <string name="return_oder">回到點餐</string>
+    <string name="dlg_checkout">結帳</string>
+    <string name="dlg_form">表單</string>
+    <string name="dlg_end">結束</string>
+
+
+
+    <string name="toastOK">點餐完成</string>
+    <string name="toastCancel">取消點餐</string>
+    <string name="toastFail">點餐失敗</string>
+    <string name="toastFail2"> 桌尚未結帳</string>
+    <string name="ToastUnOrder">這個桌次尚未點餐</string>
+    <string name="ToastSucess">結帳成功</string>
+
+
+    <string name="cashFlowList">簡易現金流量表</string>
+    <string name="cashOutFlow">現金流出</string>
+    <string name="salaryExpense">薪資費用:</string>
+    <string name="rawExpense">原物料費用:</string>
+    <string name="otherExpense">雜費支出:</string>
+    <string name="netIncome">淨現金收入</string>
+    <string name="cashFlowIn">現金流入</string>
+    <string name="totalOder">今日訂單共:</string>
+    <string name="text1unit">筆</string>
+    <string name="revenue">今日收入:</string>
+    <string name="text2unit">元</string>
+    <string name="calculate">計算</string>
+
+    <string-array name="sprMain">
+        <item>鮮烤魚排</item>
+        <item>焗烤明蝦</item>
+        <item>法式烤雞</item>
+        <item>嫩煎牛排</item>
+    </string-array>
+    <string-array name="sprTable">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
